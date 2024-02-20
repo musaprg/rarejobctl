@@ -8,7 +8,7 @@ require (
 	github.com/disgoorg/disgo v0.17.0
 	github.com/slack-go/slack v0.12.3
 	github.com/tebeka/selenium v0.9.9
-	go.uber.org/zap v1.26.0
+	go.uber.org/zap v1.27.0
 )
 
 require (
